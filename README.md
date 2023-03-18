@@ -47,7 +47,7 @@
 <table border="0" cellpadding="0" cellspacing="0" class="image_block block-1" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;" width="100%">
 <tr>
 <td class="pad" style="width:100%;padding-right:0px;padding-left:0px;">
-<div align="center" class="alignment" style="line-height:10px"><img alt="Image" class="fullMobileWidth" src="[https://media1.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif?cid=20eb4e9dqwu6g0v0pae2xdgsefrsk4cy81b7iww3fip6kxgk&rid=giphy.gif&ct=g](https://media1.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif?cid=20eb4e9dqwu6g0v0pae2xdgsefrsk4cy81b7iww3fip6kxgk&rid=giphy.gif&ct=g)" style="display: block; height: auto; border: 0; width: 217px; max-width: 100%;" title="Image" width="217"/></div>
+<div align="center" class="alignment" style="line-height:10px"><img alt="Image" class="fullMobileWidth" src="https://media1.giphy.com/media/xUOxfoZZhw8HkYWbzG/giphy.gif?cid=20eb4e9dqwu6g0v0pae2xdgsefrsk4cy81b7iww3fip6kxgk&rid=giphy.gif" style="display: block; height: auto; border: 0; width: 217px; max-width: 100%;" title="Image" width="217"/></div>
 </td>
 </tr>
 </table>
